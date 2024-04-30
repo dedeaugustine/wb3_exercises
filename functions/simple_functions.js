@@ -28,3 +28,9 @@ function favoritePlace() {
 favroiteThings();
 whyImHere();
 favoritePlace();
+
+
+
+let distance = -123456;
+let positiveDistance = Math.abs(distance)
+console.log(positiveDistance);
